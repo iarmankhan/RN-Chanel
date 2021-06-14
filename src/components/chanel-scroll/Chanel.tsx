@@ -5,7 +5,7 @@ import Animated, {
   useSharedValue,
 } from "react-native-reanimated";
 
-import { items } from "../data";
+import { items } from "../../data";
 
 import Item, { MAX_HEIGHT } from "./Item";
 
